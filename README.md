@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+-This app will help automate common tasks in GitHub to streamline your shared project workflow!
+-This will hopefully show me how to execute the basic housekeeping associated with GitHub shared repositories so I can code with the community!
 ## What it does
 
-FEATURES PLACEHOLDER
+-Tired of all the silly time-consuming stuff associated with upkeeping your GitHub shared project. This app will assist in making those tasks a second thought so you can go back to coding!
 
 ## Getting started
 
