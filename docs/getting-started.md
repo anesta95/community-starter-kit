@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+This is where you will find the configuration and user documentation of an overview of how to view, edit, contribute, and utlize our new app! Please use this to automate your annoyingly repetative GitHub tasks.
