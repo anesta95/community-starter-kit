@@ -15,6 +15,6 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: These points in the project need documentation to assist open-source users in the correct way to efficiently contribute bug-fixes, edits, and pull-request additions.
 - **bug-high-priority**: _Anything_ that impeades the core functionality of the automation of GitHub tasks
 - **bug-low-priority**: All other bugs that may degrade other 
-- **help-wanted**: Please if you have any experience in web-development or higher-level programmers.
+- **help-wanted**: Please if you have any experience in web-development or higher-level programmers that know the ins and outs of GitHub!
 
 You can also help by translating documentation and reviewing open pull requests.
